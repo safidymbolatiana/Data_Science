@@ -1,0 +1,8 @@
+name: ds_mall
+dependencies:
+  - python=3.9
+  - jupyter
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
